@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bohdan Bezushka Perepelytsia</h1>
+<h1 align="center">Hi 👋, I'm</h1>
+
+![Bohdan](https://user-images.githubusercontent.com/94321555/236469966-2a44d96d-5fd5-42c9-9f39-172efed7f418.png)
+
 <h3 align="center">As a Full Stack developer, I am actively seeking opportunities to start my professional career. I am currently completing my studies at Code Institute and furthering my education through courses at Platzi Academy and FreeCodeCamp. I am a highly motivated and dedicated professional who is deeply passionate about technology. With exceptional teamwork and problem-solving skills, I am confident in my ability to contribute value to any project.</h3>
 
 - 🔭 I’m currently working on **e-commerce.**
