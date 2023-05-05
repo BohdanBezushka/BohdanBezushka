@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- ☎️ [Contact](+34 684095474)
+- ☎️ Contact +34 684095474
 
 - 💬 Ask me about **JavaScript, Python or Django**
 
